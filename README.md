@@ -2,6 +2,8 @@
 
 Esta aplicación de Windows Forms proporciona una interfaz gráfica para calcular el valor y la tolerancia de una resistencia basándose en el código de colores. La aplicación también muestra información adicional, como el error calculado y el rango de resistencia.
 
+
+
 ## Características
 
 - **Cálculo de Resistencia:** Selecciona los colores del código de colores de una resistencia y obtén el valor y la tolerancia de la resistencia.
